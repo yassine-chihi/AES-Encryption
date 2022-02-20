@@ -1,4 +1,4 @@
-<h1 align="center">AES Encryption with Python</h1>
+<h1 align="center">AES Encryption</h1>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)</br>
