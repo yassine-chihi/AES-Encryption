@@ -142,7 +142,7 @@ def RunTest():
 if __name__ == "__main__":
     import sys
 
-    welcome= """
+    banner= """
     ┌───────────────────────────────────────────────┐
     | ┌──(CyberTrace@Advanced)-[~]                  |
     | └─$ ./AesEnc.py [Plaintext] [Key] | RunTest   |
@@ -151,7 +151,7 @@ if __name__ == "__main__":
     |               By ya$$ine                      |
     └───────────────────────────────────────────────┘
     """
-    print(welcome)
+    print(banner)
 
     if len(sys.argv) == 3:
         print("""\nBoth plaintext and key should be in hexadecimal format without prefixed 0x. Be carful!\n""")
